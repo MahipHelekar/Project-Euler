@@ -1,2 +1,2 @@
 # Project-Euler
-This repository contains programs of Project Euler.
+This repository contains codes of Project Euler.
