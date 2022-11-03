@@ -1,2 +1,2 @@
-# Project-Euler :man_technologist:
+# Project-Euler 👨‍💻
 This repository contains codes of Project Euler!
